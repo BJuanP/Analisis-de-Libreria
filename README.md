@@ -4,7 +4,6 @@
 
 Dashboard interactivo desarrollado en **Power BI** para analizar el desempeño de **ventas, rentabilidad y transacciones**, aplicando buenas prácticas de **modelado de datos, ETL y DAX**.
 
----
 
 ## 🎯 Objetivo del Proyecto
 
